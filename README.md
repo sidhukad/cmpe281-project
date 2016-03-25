@@ -1,4 +1,1 @@
-cmpe281Node
-===========
-
-cmpe 281 Node js font end
+Node.js based web app to consume backend api's
